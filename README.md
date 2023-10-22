@@ -15,7 +15,7 @@ This repository documents my journey to improve my coding and problem-solving sk
 ## How to Navigate
 - You can explore the solutions by browsing through the repository's folders, each named after the problem's title or number.
 
-- The code is available in various programming languages, making it accessible to a wider audience.
+- The code is available in various Java programming language.
 
 ## Get Involved
 I welcome your participation and engagement. If you have solutions to share, suggestions for improvements, or questions, please feel free to open issues, make pull requests, or start discussions. Let's collaborate and grow together!
